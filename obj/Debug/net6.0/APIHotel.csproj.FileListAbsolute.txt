@@ -1,0 +1,58 @@
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\appsettings.json
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\APIHotel.exe
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\APIHotel.deps.json
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\APIHotel.runtimeconfig.json
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\APIHotel.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\APIHotel.pdb
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.csproj.AssemblyReference.cache
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.AssemblyInfoInputs.cache
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.AssemblyInfo.cs
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.csproj.CoreCompileInputs.cache
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\scopedcss\bundle\APIHotel.styles.css
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.csproj.CopyComplete
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\refint\APIHotel.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.pdb
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\APIHotel.genruntimeconfig.cache
+C:\Users\casta\Desktop\APIHotel\APIHotel\obj\Debug\net6.0\ref\APIHotel.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\BCrypt.Net-Core.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\Irony.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\casta\Desktop\APIHotel\APIHotel\bin\Debug\net6.0\XLParser.dll
+C:\Users\casta\Desktop\Proyecto IT\APIHotel\obj\Debug\net6.0\APIHotel.csproj.AssemblyReference.cache
+C:\Users\casta\Desktop\Proyecto IT\APIHotel\obj\Debug\net6.0\APIHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casta\Desktop\Proyecto IT\APIHotel\obj\Debug\net6.0\APIHotel.AssemblyInfoInputs.cache
+C:\Users\casta\Desktop\Proyecto IT\APIHotel\obj\Debug\net6.0\APIHotel.AssemblyInfo.cs
+C:\Users\casta\Desktop\Proyecto IT\APIHotel\obj\Debug\net6.0\APIHotel.csproj.CoreCompileInputs.cache
+C:\Users\casta\Desktop\Proyecto IT\APIHotel\obj\Debug\net6.0\APIHotel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\casta\Desktop\Proyecto IT\APIHotel\obj\Debug\net6.0\APIHotel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\casta\Desktop\Proyecto IT\APIHotel\obj\Debug\net6.0\APIHotel.dll
+C:\Users\casta\Desktop\Proyecto IT\APIHotel\obj\Debug\net6.0\refint\APIHotel.dll
+C:\Users\casta\Desktop\Proyecto IT\APIHotel\obj\Debug\net6.0\APIHotel.pdb
